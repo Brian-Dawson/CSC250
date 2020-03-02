@@ -1,0 +1,11 @@
+A
+1
+good
+
+B
+2
+bad
+
+A
+3
+good

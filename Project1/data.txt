@@ -1,0 +1,25 @@
+John
+Mikula
+24 Horse Street
+Newark
+New Jersey
+Newark
+12044.05
+55
+45545
+111
+0
+2424443434
+
+default
+default
+default
+default
+default
+default
+10000.0
+56
+44645
+112
+0
+2342344234
